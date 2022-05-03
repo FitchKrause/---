@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_editor_icon_group",
+    "path": "sprites/spr_editor_icon_group/spr_editor_icon_group.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
