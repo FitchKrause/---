@@ -1,0 +1,19 @@
+function	player_collision_draw(){
+	player_collision_draw_sensor_angle_b();
+	player_collision_draw_sensor_angle_a();
+	player_collision_draw_sensor_tile();
+	player_collision_draw_sensor_edge_a();
+	player_collision_draw_sensor_edge_b();
+	player_collision_draw_sensor_hitbox();
+	player_collision_draw_sensor_right();
+	player_collision_draw_sensor_left();
+	player_collision_draw_sensor_bottom();
+	player_collision_draw_sensor_top();
+	player_collision_draw_sensor_f();
+	player_collision_draw_sensor_e();
+	player_collision_draw_sensor_d();
+	player_collision_draw_sensor_c();
+	player_collision_draw_sensor_b();
+	player_collision_draw_sensor_a();
+	player_collision_draw_sensor_xy();
+}
